@@ -63,3 +63,25 @@ window.onload = () => {
   
   body.addEventListener("touchmove", drop, false);
 };
+
+
+
+var mySong = document.getElementById("mySong");
+var Laugh = document.getElementById("laugh");
+var icon = document.getElementById("icon");
+
+icon.onclick = function(){
+    if(mySong.paused){
+        Laugh.play();
+        mySong.play();
+        icon.src = "pause.png";
+
+
+    }
+
+    else{
+        icon.src = "play.png";
+        mySong.pause();
+
+    }
+}

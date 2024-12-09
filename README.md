@@ -14,6 +14,12 @@ Features:
 
 5. Multiple Item : The Web App contains Multiple Items to Decorate Your Santa for Chirtmas.
 
+6. Christmas Audio: Draggable Audio Button to Play Christmas Music and Santa voice.
+
+7. Snowflake Aniamtion : creating a Snowflake falling animation to look like christmas.
+
+8. Background Changed : Set a Background Image with the christmas Tree to Match the Theme.
+
 
 Installation:
 
